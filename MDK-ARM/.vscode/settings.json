@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "tim.h": "c",
+        "measurelen.h": "c",
+        "measurer.h": "c",
+        "gpio.h": "c",
+        "cmd.h": "c",
+        "user.h": "c"
+    }
+}
